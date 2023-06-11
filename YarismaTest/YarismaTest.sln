@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yarisma", "Yarisma\Yarisma.csproj", "{AECA7E81-B6CE-42DB-9455-6A657513CEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECA7E81-B6CE-42DB-9455-6A657513CEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECA7E81-B6CE-42DB-9455-6A657513CEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECA7E81-B6CE-42DB-9455-6A657513CEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECA7E81-B6CE-42DB-9455-6A657513CEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E90EDD-8BFB-4C50-8ED4-0281D3833722}
+	EndGlobalSection
+EndGlobal

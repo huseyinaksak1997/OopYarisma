@@ -1,0 +1,8 @@
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\obj\Debug\Yarisma.csproj.CoreCompileInputs.cache
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\bin\Debug\Yarisma.exe.config
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\bin\Debug\Yarisma.exe
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\bin\Debug\Yarisma.pdb
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\obj\Debug\Yarisma.exe
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\obj\Debug\Yarisma.pdb
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\obj\Debug\Yarisma.csproj.AssemblyReference.cache
+C:\Users\hüseyin aksak\source\repos\YarismaTest\Yarisma\obj\Debug\Yarisma.csproj.SuggestedBindingRedirects.cache
